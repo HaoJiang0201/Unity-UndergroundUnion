@@ -9,6 +9,13 @@ Created By:
 * Unity
 * C#
 
+## Deployment
+1. Clone this repo;
+2. Use Unity 2019.1.2f1 version to build the project.
+
+## Demo Online Linke:
+https://www.sharemygame.com/share/0a069743-b734-4c8e-a796-c053f711c0ef
+
 ## Full Edition
 * Link: http://www.66rpg.com/game/900077
 * Notes: Published on www.66rpg.com visual novel game plateform and made by 66RPG Game Maker.
