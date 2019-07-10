@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7765f3c388279e14087d19ef84b475e2, type: 3}
+  m_Name: Dialog5
+  m_EditorClassIdentifier: 
+  iFaceHalf: 2
+  bEnd: 0
+  strSentence1: Well, since you don't want to play nice,
+  strSentence2: as you wish.
+  dlgNext: {fileID: 11400000, guid: 307da9398dcd4ca469e1e77bce450ffd, type: 2}
