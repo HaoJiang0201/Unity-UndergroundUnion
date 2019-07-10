@@ -11,9 +11,10 @@ Created By:
 
 ## Deployment
 1. Clone this repo;
-2. Use Unity 2019.1.2f1 version to build the project.
+2. Use Unity 2019.1.2f1 version to build the project;
+3. Debug and deploy on PC, Web or Mobile devices.
 
-## Demo Online Linke:
+## Demo Link:
 https://www.sharemygame.com/share/0a069743-b734-4c8e-a796-c053f711c0ef
 
 ## Full Edition
