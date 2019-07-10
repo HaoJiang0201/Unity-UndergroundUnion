@@ -11,6 +11,8 @@ Created By:
 
 ## Full Edition
 * Link: http://www.66rpg.com/game/900077
-* Notes: Published on www.66rpg.com and made by 66RPG Game Maker.
+* Notes: Published on www.66rpg.com visual novel game plateform and made by 66RPG Game Maker.
 
 ## Screenshots
+![Screenshot of Budgestory](https://github.com/HaoJiang0201/Unity-UndergroundUnion/blob/master/doc/Title.jpg?raw=true)
+![Screenshot of Budgestory](https://github.com/HaoJiang0201/Unity-UndergroundUnion/blob/master/doc/Battle.png?raw=true)
